@@ -1,0 +1,29 @@
+{
+  "name": "@dead404code/tailwind-remove-base-border-box",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin to remove initial box-sizing and border styles.",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin",
+    "border-box",
+    "box-sizing",
+    "borderBox",
+    "boxSizing"
+  ],
+  "homepage": "https://github.com/DeadCodeGames/tailwind-FuckOffBorderBox#readme",
+  "bugs": {
+    "url": "https://github.com/DeadCodeGames/tailwind-FuckOffBorderBox/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadCodeGames/tailwind-FuckOffBorderBox.git"
+  },
+  "license": "WTFPL",
+  "author": "Richard Kanshen @ DeadCodeGames <kanshen@mail.deadcode.is-a.dev> (https://deadcode.is-a.dev)",
+  "type": "commonjs",
+  "main": "RemoveBaseBorderBox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
